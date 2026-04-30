@@ -1,4 +1,4 @@
-% Yosenabe Q1
+% Yosenabe Q2
 
 
 {target(X,Y,XX,YY) : area(XX,YY,_)} = 1 :- number(X,Y,_).
